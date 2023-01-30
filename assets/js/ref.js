@@ -5,6 +5,13 @@ let courseMonitoryGithub = () => {
   );
 
   }
+
+ let oneStopSolutionsGithub = () => {
+    window.open(
+      'https://github.com/pranshubisht9/One_Stop_Solutions',
+      '_blank'
+    );
+  }
 let KettoGithub = () => {
     window.open(
         'https://github.com/pranshubisht9/ketto.org.git',
