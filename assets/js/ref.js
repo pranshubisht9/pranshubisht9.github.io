@@ -42,11 +42,11 @@ let StarWarGithub = () => {
 let myResume = () =>{
 
   var a = document.createElement("a");
-  a.href = "./assets/resume/pranshu_bisht_resume.pdf";
+  a.href = "./assets/resume/Pranshu_Singh_Bisht_Resume.pdf";
   a.download = "Pranshu_Singh_Bisht_Resume.pdf";
   a.click();
   window.open(
-    'https://drive.google.com/file/d/1Q3WVb0V6vF0e5ftaBXwE5QEd-TQFd5X7/view?usp=sharing',
+    'https://drive.google.com/file/d/1Ow50dpmiVZnZsfaO0le8-8K9dsaHFiWO/view?usp=sharing',
     '_blank'
   );
 
