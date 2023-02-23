@@ -46,7 +46,7 @@ let myResume = () =>{
   a.download = "Pranshu_Singh_Bisht_Resume.pdf";
   a.click();
   window.open(
-    'https://drive.google.com/file/d/1Ow50dpmiVZnZsfaO0le8-8K9dsaHFiWO/view?usp=sharing',
+    'https://drive.google.com/file/d/1oQQeG4LNp_mRgWAiAjFMRhlIW3hsMXe2/view?usp=sharing',
     '_blank'
   );
 
