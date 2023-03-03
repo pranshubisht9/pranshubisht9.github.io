@@ -1,6 +1,6 @@
 let courseMonitoryGithub = () => {
   window.open(
-    'https://drive.google.com/file/d/1Eekqb6kX0Q4KEFlaFlHw9Q-BdTDKQ0MD/view',
+    'https://github.com/pranshubisht9/Course_Monitoring_System.git',
     '_blank'
   );
 
@@ -8,7 +8,7 @@ let courseMonitoryGithub = () => {
 
  let oneStopSolutionsGithub = () => {
     window.open(
-      'https://drive.google.com/file/d/1Eekqb6kX0Q4KEFlaFlHw9Q-BdTDKQ0MD/view',
+      'https://github.com/pranshubisht9/OneStopSolutions.git',
       '_blank'
     );
   }
