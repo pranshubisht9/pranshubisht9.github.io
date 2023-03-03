@@ -1,6 +1,6 @@
 let courseMonitoryGithub = () => {
   window.open(
-    'https://github.com/pranshubisht9/nifty-competition-2668',
+    'https://drive.google.com/file/d/1Eekqb6kX0Q4KEFlaFlHw9Q-BdTDKQ0MD/view',
     '_blank'
   );
 
@@ -8,7 +8,7 @@ let courseMonitoryGithub = () => {
 
  let oneStopSolutionsGithub = () => {
     window.open(
-      'https://github.com/pranshubisht9/One_Stop_Solutions',
+      'https://drive.google.com/file/d/1Eekqb6kX0Q4KEFlaFlHw9Q-BdTDKQ0MD/view',
       '_blank'
     );
   }
